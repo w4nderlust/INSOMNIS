@@ -1,0 +1,61 @@
+Mon Jul 19 13:22:53 2010
+
+
+Moral links:
+
+    Marrying Conosce_Informatica and Gia_Giocato
+
+
+Triangulating prime component with 3 members:
+    Gia_Giocato, Livello_Difficolta, Conosce_Informatica
+This component is a clique of cost 18
+
+
+Total cost of triangulation for all prime components is 18
+
+
+Elimination sequence:
+
+    Conosce_Informatica
+    Livello_Difficolta
+    Gia_Giocato
+
+
+Cliques:
+
+Clique 1, 3 members, table size = 18:
+    Gia_Giocato, Livello_Difficolta, Conosce_Informatica
+
+Total clique table size: 18
+
+
+The junction forest:
+
+Creating junction tree with clique 1 as root ...
+
+
+Assignment of potentials to cliques:
+
+    Node Gia_Giocato assigned to clique 1
+    Node Livello_Difficolta assigned to clique 1
+    Node Conosce_Informatica assigned to clique 1
+
+
+Checking conditional probability potentials:
+
+
+Beliefs for chance nodes:
+
+    Gia_Giocato:
+	false      0.5
+	true       0.5
+
+    Livello_Difficolta:
+	FACILE     0.2995
+	MEDIO      0.351
+	DIFFICILE  0.3495
+
+    Conosce_Informatica:
+	MOLTO      0.33
+	MEDIO      0.34
+	POCO       0.33
